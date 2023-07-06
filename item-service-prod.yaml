@@ -2,4 +2,4 @@ server:
   port: 8007
 
 configuracion:
-  texto: ConfiguracionEntornoProduccion
+  texto: Your desired value Produccion

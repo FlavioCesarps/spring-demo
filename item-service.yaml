@@ -2,4 +2,4 @@ server:
   port: 8005
 
 configuracion:
-  texto: ConfiguracionEntornoDefecto
+  texto: Your desired value
