@@ -1,0 +1,8 @@
+server:
+  port: 8005
+
+configuracion:
+  texto: ConfiguracionEntornoDesarrollo
+  autor:
+    nombre: Andres
+    email: andres@gmail.com
