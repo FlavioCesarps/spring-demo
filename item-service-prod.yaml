@@ -1,8 +1,5 @@
 server:
   port: 8007
-  
+
 configuracion:
   texto: ConfiguracionEntornoProduccion
-  autor:
-    nombre: Andres
-    email: andres@gmail.com
